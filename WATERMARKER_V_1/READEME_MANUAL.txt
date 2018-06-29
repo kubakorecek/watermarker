@@ -1,0 +1,21 @@
+Do složkz IN vložte obrázky.
+
+Pokud chcete zjistit velikost:
+
+obrázky co projdou teste budou ve složce SIZE_OUT
+
+ty co ne v WRONG_SIZE.
+
+
+Pro pøidání logo, jen vyberte v menu logo.
+
+Pokud chcete zmìnit i velikost obrázky budou v SIZE_OUT_MARKED.
+
+Pokud velikost se rozhodnete zanechat ,tak v OUT_MARKED.
+
+Ty co neprojdou testem v WRONG_SIZE.
+
+WARNING"
+Pokud logo má èernou podkladovou barvu, bude automaticky pøevedena na prùhlednou.
+
+Proto nepoužívejte logo co mají èernou barvu pøímo v logu.
